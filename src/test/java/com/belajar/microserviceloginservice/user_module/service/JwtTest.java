@@ -1,4 +1,4 @@
-package com.belajar.springstartergradle.user_module.service;
+package com.belajar.microserviceloginservice.user_module.service;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;

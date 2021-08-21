@@ -1,4 +1,4 @@
-package com.belajar.springstartergradle.user_module.entity;
+package com.belajar.microserviceloginservice.user_module.entity;
 
 import lombok.Getter;
 import lombok.Setter;

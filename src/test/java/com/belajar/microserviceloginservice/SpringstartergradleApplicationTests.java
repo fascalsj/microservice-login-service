@@ -1,4 +1,4 @@
-package com.belajar.springstartergradle;
+package com.belajar.microserviceloginservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

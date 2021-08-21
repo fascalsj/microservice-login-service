@@ -1,4 +1,4 @@
-package com.belajar.springstartergradle.user_module.dto;
+package com.belajar.microserviceloginservice.user_module.dto;
 
 import lombok.Getter;
 import lombok.Setter;

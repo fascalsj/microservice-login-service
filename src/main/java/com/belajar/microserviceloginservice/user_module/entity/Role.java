@@ -1,4 +1,4 @@
-package com.belajar.springstartergradle.user_module.entity;
+package com.belajar.microserviceloginservice.user_module.entity;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -11,11 +11,10 @@ import javax.persistence.Id;
 @Setter
 @Getter
 @Entity
-public class UserRole {
+public class Role {
     @Id
     @GenericGenerator(name = "UUIDGenerator", strategy = "uuid2")
     @GeneratedValue(generator = "UUIDGenerator")
     private String id;
-    private String roleId;
-    private String userid;
+    private String description;
 }

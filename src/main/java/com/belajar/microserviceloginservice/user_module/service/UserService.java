@@ -1,7 +1,7 @@
-package com.belajar.springstartergradle.user_module.service;
+package com.belajar.microserviceloginservice.user_module.service;
 
-import com.belajar.springstartergradle.user_module.entity.User;
-import com.belajar.springstartergradle.user_module.repo.UserRepository;
+import com.belajar.microserviceloginservice.user_module.entity.User;
+import com.belajar.microserviceloginservice.user_module.repo.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
